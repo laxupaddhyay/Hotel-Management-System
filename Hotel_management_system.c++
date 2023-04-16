@@ -7,7 +7,7 @@ using namespace std;
 class Customer  
 {  
 public:  
-    char name[100];  
+    char name[99];  
     char address[100];  
     char phone[12];  
     char from_date[20];  
